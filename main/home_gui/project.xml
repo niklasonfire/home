@@ -1,0 +1,7 @@
+<project>
+    <targets>
+        <target name="target1">
+            <display width="800" height="420"/>
+        </target>
+    </targets>
+</project>
