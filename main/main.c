@@ -29,6 +29,7 @@ void app_main(void)
     bsp_display_rotate(disp, LV_DISPLAY_ROTATION_90);
     bsp_display_backlight_on();
 
+    // Test comment for git detection
     bsp_display_lock(0);
 
     // lv_demo_music();
